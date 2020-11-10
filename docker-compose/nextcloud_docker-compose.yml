@@ -26,3 +26,6 @@ services:
     volumes:
       - nextcloud:/utxt/soft/nextcloud/html
     restart: always
+
+
+
