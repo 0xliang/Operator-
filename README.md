@@ -1,7 +1,7 @@
 # Operator
 
 
-` As an Operator, I know how to  Cook well. Don't call me even if I'm the ON CALL :) , I hate get up at midnight`
+` As an Operator, I know how to  Cook well. Don't call me even  I'm  ON CALL :) , I hate get up at midnight`
 
 This repo include some file about Linux, docker, k8s etc. which I had succed make it work. just for self use!
 
